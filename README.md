@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Zapata</h1>
 <h3 align="center">A passionate Backend Developer from Belgium</h3>
 
-- 🔭 I’m currently working on [Grow-Rework](https://github.com/mctantwerp/ninjas2425-GrowRework)
 
 - 🌱 I’m currently learning **JavaScript, Devop**
-
-- 👯 I’m looking to collaborate on [Lumea](https://github.com/GabrielZapataSarmiento/Lumea)
 
 - 💬 Ask me about **Html, CSS, PHP**
 
